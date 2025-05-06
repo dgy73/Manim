@@ -30,8 +30,7 @@ Ezen a 90 perces szemináriumon a résztvevők megismerkednek a **Python Manim**
    - Nyitott fórum a résztvevők kérdéseire.
 
 ## Előfeltételek
-- **Programozási ismeretek**: Alapvető Python tudás (változók, függvények, ciklusok) előny, de nem kötelező. Kezdők számára is érthető magyarázatokat biztosítunk.  
-- **Matematikai háttér**: Középiskolai szintű algebra és geometria elegendő.  
+- **Programozási ismeretek**: Alapvető Python tudás (változók, függvények, ciklusok) előny, de nem kötelező. Kezdők számára is érthető magyarázatokat biztosítunk.   
 - **Kíváncsiság**: Motiváció új eszközök kipróbálására.
 
 ## Mire használható a Manim a matematika oktatásban?
@@ -44,8 +43,7 @@ Ezen a 90 perces szemináriumon a résztvevők megismerkednek a **Python Manim**
 - **Python 3.8+**: Telepítve a hivatalos Python weboldalról.  
 - **Manim Community Edition**: Telepítés `pip install manim` paranccsal.  
 - **Kódszerkesztő**: Ajánlott a VS Code vagy PyCharm, de bármely szövegszerkesztő megfelel.  
-- **Opcionális**: Anaconda a környezetkezelés egyszerűsítéséhez.  
-- A szemináriumon lépésről lépésre bemutatjuk a telepítést, és biztosítunk egy előre konfigurált környezetet pendrive-on.
+- A szemináriumon lépésről lépésre bemutatjuk a telepítést
 
 ## AI-támogatás lehetőségei
 - **Kódgenerálás**: AI eszközökkel egyszerűbb animációk kódjainak gyors elkészítése.  
@@ -53,8 +51,7 @@ Ezen a 90 perces szemináriumon a résztvevők megismerkednek a **Python Manim**
 - **Hibakeresés**: AI használata a kódok finomhangolására és hibák javítására.
 
 ## Célközönség
-- Matematika tanárok, akik szeretnék feldobni óráikat.  
-- Egyetemisták vagy középiskolai tanárok, akik vizuális tananyagot készítenének.  
+- Matematika tanárok, akik szeretnék feldobni óráikat, akik vizuális tananyagot készítenének.  
 - Python iránt érdeklődők, akik kreatív projektekkel tanulnának.  
 
 Csatlakozzon, és fedezze fel, hogyan teheti élvezetesebbé és hatékonyabbá a matematika oktatását a Manim és az AI segítségével!
