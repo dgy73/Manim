@@ -114,13 +114,6 @@ print(f"Beírt kör középpontja (O): {O}")
 print(f"Beírt kör sugara (ρ): {rho}")
 ```
 
-### Kimenet (példa):
-A fenti $A, B, C$ koordináták esetén a kimenet körülbelül:
-- Beírt kör középpontja ($O$): $[0, 0]$
-- Beírt kör sugara ($\varrho$): $0.5$
-
-Ez megegyezik az előző ábrán becsült értékekkel.
-
 ### Manim integráció
 Ha ezt a számítást a Manim kódban szeretnéd használni, egyszerűen illeszd be a `TriangleCircles` osztályba, és használd az $O$ és $\varrho$ értékeket a kör rajzolásához:
 
