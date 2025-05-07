@@ -35,9 +35,11 @@ $$
 
 #### 3. **Háromszög területének kiszámítása**
 A terület ($\Delta$) meghatározható a csúcsok koordinátáival a determináns képlet segítségével (shoelace formula):
+
 $$
 \Delta = \frac{1}{2} \left| x_A (y_B - y_C) + x_B (y_C - y_A) + x_C (y_A - y_B) \right|
 $$
+
 Mátrix formában, ha a csúcsokat egy $3 \times 2$ mátrixba rendezzük:
 $$
 P = \begin{bmatrix}
