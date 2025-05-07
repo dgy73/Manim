@@ -1,6 +1,6 @@
 ## Manim Matematikai Vizualizáció
 
-Üdvözöllek a Manim projektemben! Ez a repository matematikai koncepciók vizualizációját bemutató programokat és segédanyagokat tartalmaz, a [Manim](https://www.manim.community/) könyvtár használatával. A célom, hogy szemléletes és interaktív animációkkal segítsek matematikai ötletek megértésében, különös tekintettel gráfok és más matematikai struktúrák vizuális megjelenítésére.
+Üdvözöllek a Manim projektemben! Ez a repository matematikai tételek, fogalmak, feladatok vizualizációját bemutató programokat és segédanyagokat tartalmaz, a [Manim](https://www.manim.community/) könyvtár használatával. Az oldal célja, hogy szemléletes és interaktív animációkkal segítse a tanulókat a matematikai jelenségek, struktúrák megértésében.
 
 ## Tartalom
 - Matematikai animációk és vizualizációk Python és Manim segítségével.
