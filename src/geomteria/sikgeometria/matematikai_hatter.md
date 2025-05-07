@@ -4,9 +4,11 @@ A háromszög beírt körének meghatározása mátrixokkal megadott csúcsok es
 $$
 A = \begin{bmatrix} x_A \\ 
 y_A
-\end{bmatrix}, \quad B = \begin{bmatrix} x_B \\ 
+\end{bmatrix}, 
+\quad B = \begin{bmatrix} x_B \\ 
 y_B 
-\end{bmatrix}, \quad C = \begin{bmatrix} x_C \\
+\end{bmatrix}, 
+\quad C = \begin{bmatrix} x_C \\
 y_C 
 \end{bmatrix}
 
