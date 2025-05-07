@@ -125,4 +125,3 @@ in_circle = Circle(radius=rho, color=BLUE).move_to(O)
 self.add(in_circle)
 ```
 
-Ha további részletekre van szükséged a hozzáírt körökről vagy a szögfelezők pontos kiszámításáról, jelezd!
