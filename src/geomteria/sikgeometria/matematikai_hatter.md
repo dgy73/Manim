@@ -1,7 +1,9 @@
 A háromszög beírt körének meghatározása mátrixokkal megadott csúcsok esetén geometriai és algebrai műveletekkel történhet. Az \(ABC\) háromszög csúcsait mátrix formában adjuk meg, például:
 
 $$
-A = \begin{bmatrix} x_A \\ y_A \end{bmatrix}, \quad B = \begin{bmatrix} x_B \\ y_B \end{bmatrix}, \quad C = \begin{bmatrix} x_C \\ y_C \end{bmatrix}
+A = \begin{bmatrix} x_A \\ 
+y_A
+\end{bmatrix}, \quad B = \begin{bmatrix} x_B \\ y_B \end{bmatrix}, \quad C = \begin{bmatrix} x_C \\ y_C \end{bmatrix}
 $$
 
 A cél a beírt kör középpontjának (\(O\)) koordinátáit és sugarát (\(\varrho\)) meghatározni. A beírt kör középpontja a háromszög belső szögfelezőinek metszéspontja, és az oldalaktól egyenlő távolságra van.
