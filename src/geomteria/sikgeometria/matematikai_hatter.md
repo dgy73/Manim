@@ -5,10 +5,10 @@ $$
 A = \begin{bmatrix} x_A \\ 
 y_A
 \end{bmatrix}, 
-\quad B = \begin{bmatrix} x_B \\ 
+B = \begin{bmatrix} x_B \\ 
 y_B 
 \end{bmatrix}, 
-\quad C = \begin{bmatrix} x_C \\
+C = \begin{bmatrix} x_C \\
 y_C 
 \end{bmatrix}
 
