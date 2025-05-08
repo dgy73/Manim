@@ -87,12 +87,7 @@ $$
 \varrho = \frac{\Delta}{s}
 $$
 
-### Összegzés: Műveletek lépésről lépésre
-1. Számítsd ki az oldalak hosszát ($a, b, c$) a csúcsok koordinátáiból.
-2. Határozd meg a félkerületet: $s = \frac{a + b + c}{2}$.
-3. Számítsd ki a területet ($\Delta$) a determináns képlettel.
-4. Határozd meg a középpontot ($O$) a súlyozott átlag képlettel: $O = \frac{a A + b B + c C}{a + b + c}$.
-5. Számítsd ki a sugarat: $\varrho = \frac{\Delta}{s}$.
+
 
 ### Példa Python kódban (NumPy használatával)
 Az alábbi kód bemutatja, hogyan lehet a fenti műveleteket elvégezni, ha a csúcsok koordinátái mátrix formában vannak megadva:
@@ -125,8 +120,6 @@ O = (a * A + b * B + c * C) / (a + b + c)
 # Beírt kör sugara
 rho = Delta / s
 
-print(f"Beírt kör középpontja (O): {O}")
-print(f"Beírt kör sugara (ρ): {rho}")
 ```
 
 ### Manim integráció
