@@ -137,7 +137,7 @@ rho = Delta / s
 ```
 
 ### A háromszöghöz írt körök középpontjai és sugarai
-A hozzáírt körök középpontjait a következő súlyozott átlagokkal lehet kiszámítani:
+# A hozzáírt körök középpontjait a következő súlyozott átlagokkal lehet kiszámítani:
 - $O_a$ (a BC oldalhoz tartozó hozzáírt kör középpontja):
 
 $$
@@ -154,6 +154,14 @@ $$
 
 $$
 O_c= \frac{aA + bB - cC}{a+b-c}
+$$
+
+Itt, ahogyan fent is $a, b, c$ az oldalak hossza, $A, B, C$ pedig a csúcsok koordinátáit tartalmazó vektorok.
+
+# A hozzáírt körök sugarai
+
+$$
+\varrho_a = \frac{\Delta}{s-a} \quad \varrho_b = \frac{\Delta}{s-b} \quad \varrho_c = \frac{\Delta}{s-c} 
 $$
 
 
