@@ -144,6 +144,18 @@ $$
 O_a = \frac{-aA + bB + cC}{-a+b+c}
 $$
 
+- $O_b$ (az AC oldalhoz tartozó hozzáírt kör középpontja):
+
+$$
+O_b = \frac{aA - bB + cC}{a-b+c}
+$$
+
+- $O_c$ (az AB oldalhoz tartozó hozzáírt kör középpontja):
+
+$$
+O_c= \frac{aA + bB - cC}{a+b-c}
+$$
+
 
 ### Manim integráció
 
