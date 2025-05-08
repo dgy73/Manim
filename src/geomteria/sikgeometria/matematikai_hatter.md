@@ -166,12 +166,17 @@ $$
 $$
 
 
-### Manim integráció
+## Manim integráció
+Mivel a Manim háromdimenziós pontokkal számol a fenti két dimenziós pontokhoz egy harmadik 0 koordinátát is kell adni. 
+A Python NumPy append függvényével tehát a 2 dimenziós pontokhoz hozzáadunk egy 0-t.
 
 
 ```python
-# Beírt kör rajzolása a kiszámított középponttal és sugárral
-in_circle = Circle(radius=rho, color=BLUE).move_to(O)
-self.add(in_circle)
+A_2d = np.array([-1, 3])
+B_2d = np.array([-2, -1])
+C_2d = np.array([1, 0])
+A = np.append(A_2d, 0)
+B = np.append(B_2d, 0)
+C = np.append(C_2d, 0)
 ```
 
