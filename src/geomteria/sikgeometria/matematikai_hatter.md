@@ -136,6 +136,15 @@ rho = Delta / s
 
 ```
 
+### A háromszöghöz írt körök középpontjai és sugarai
+A hozzáírt körök középpontjait a következő súlyozott átlagokkal lehet kiszámítani:
+- $O_a$ (a BC oldalhoz tartozó hozzáírt kör középpontja):
+
+$$
+O_a = \frac{-aA + bB + cC}{-a+b+c}
+$$
+
+
 ### Manim integráció
 
 
