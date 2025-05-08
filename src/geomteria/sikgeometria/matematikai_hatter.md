@@ -21,15 +21,29 @@ A cél a beírt kör középpontjának ($O$) koordinátáit és sugarát ($\varr
 
 #### 1. **Háromszög oldalainak hossza**
 Először számoljuk ki az $ABC$ háromszög oldalainak hosszát:
-- $a = BC$: $\sqrt{(x_C - x_B)^2 + (y_C - y_B)^2}$
-- $b = CA$: $\sqrt{(x_A - x_C)^2 + (y_A - y_C)^2}$
-- $c = AB$: $\sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$
+
+$$a = BC = \sqrt{(x_C - x_B)^2 + (y_C - y_B)^2}$$
+$$b = CA = \sqrt{(x_A - x_C)^2 + (y_A - y_C)^2}$$
+$$c = AB = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$$
 
 Ezeket mátrixokkal kifejezve:
 
 $$
 a = \sqrt{(C - B)^T (C - B)}, \quad b = \sqrt{(A - C)^T (A - C)}, \quad c = \sqrt{(B - A)^T (B - A)}
 $$
+
+Ezt a műveletet a Python NumPy csomag linalg.norm függvénye elvégzi.
+
+```python
+import numpy as np
+
+
+# Oldalak hossza
+a = np.linalg.norm(C - B)  # BC
+b = np.linalg.norm(A - C)  # CA
+c = np.linalg.norm(B - A)  # AB
+
+```
 
 #### 2. **Félkerület kiszámítása**
 A háromszög félkerülete ($s$) az oldalak hosszának segítségével:
