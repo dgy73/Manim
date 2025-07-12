@@ -116,7 +116,7 @@ A projekt futtatásához a Manim könyvtárra, valamint további Python csomagok
 ---
 
 *Készítette: Dezsőfi György*  
-*Utolsó frissítés: 2025. május 6.*
+*Utolsó frissítés: 2025. július 12.*
 
 
 
