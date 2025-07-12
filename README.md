@@ -106,6 +106,7 @@ A projekt futtatásához a Manim könyvtárra, valamint további Python csomagok
 ## Példák
 - `src/geometry.py`: Alapvető geometriai alakzatok animációi.
 - `src/graphs.py`: Gráfelméleti vizualizációk NetworkX és Manim segítségével.
+- `Video`: Néhány geometriai videó és az alatta található `python_kodok` mappában a kódok is elérhetők. 
 - *(További példák hamarosan...)*
 
 ## Gyakori problémák
