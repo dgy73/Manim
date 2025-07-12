@@ -2,6 +2,10 @@
 
 Üdvözöllek a Manim projektemben! Ez a repository matematikai tételek, fogalmak, feladatok vizualizációját bemutató programokat és segédanyagokat tartalmaz, a [Manim](https://www.manim.community/) könyvtár használatával. Az oldal célja, hogy szemléletes és interaktív animációkkal segítse a tanulókat a matematikai jelenségek, struktúrák megértésében.
 
+## Elérhetőségeink
+Dezsőfi György: dezsofi.gy@gmail.com
+Taricska Dávid: taricska.david@hermangimnazium.hu
+
 ## Tartalom
 - Matematikai animációk és vizualizációk Python és Manim segítségével.
 - Segédanyagok, például kódminták, dokumentációk és példák.
@@ -101,9 +105,7 @@ A projekt futtatásához a Manim könyvtárra, valamint további Python csomagok
 
 ## Példák
 - `src/geometry.py`: Alapvető geometriai alakzatok animációi.
-- `src/calculus.py`: Függvények és deriváltak vizualizációja.
 - `src/graphs.py`: Gráfelméleti vizualizációk NetworkX és Manim segítségével.
-- `src/formulas.py`: Matematikai képletek LaTeX-szel renderelve.
 - *(További példák hamarosan...)*
 
 ## Gyakori problémák
