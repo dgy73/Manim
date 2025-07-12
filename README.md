@@ -3,8 +3,8 @@
 Üdvözöllek a Manim projektemben! Ez a repository matematikai tételek, fogalmak, feladatok vizualizációját bemutató programokat és segédanyagokat tartalmaz, a [Manim](https://www.manim.community/) könyvtár használatával. Az oldal célja, hogy szemléletes és interaktív animációkkal segítse a tanulókat a matematikai jelenségek, struktúrák megértésében.
 
 ## Elérhetőségeink
-Dezsőfi György: dezsofi.gy@gmail.com
-Taricska Dávid: taricska.david@hermangimnazium.hu
+- Dezsőfi György: dezsofi.gy@gmail.com
+- Taricska Dávid: taricska.david@hermangimnazium.hu
 
 ## Tartalom
 - Matematikai animációk és vizualizációk Python és Manim segítségével.
